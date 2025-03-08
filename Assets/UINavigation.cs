@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class UINavigation : MonoBehaviour
 {
-    public GameObject profilePanel, watchAdsPanel, leaderboardPanel, explorePanel, impactPanel;
+    public GameObject profilePanel, donatePanel, leaderboardPanel, explorePanel, impactPanel;
 
     void Start()
     {
@@ -24,7 +24,7 @@ public class UINavigation : MonoBehaviour
     private void HideAllPanels()
     {
         profilePanel.SetActive(false);
-        watchAdsPanel.SetActive(false);
+        donatePanel.SetActive(false);
         leaderboardPanel.SetActive(false);
         explorePanel.SetActive(false);
         impactPanel.SetActive(false);
