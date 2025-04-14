@@ -6,7 +6,7 @@ Uses a natural language interface where users type requests parsed via NLP to ap
 
 Built dynamic dropdowns, animation-driven UI, and real-time asset updates using Unity’s UI system and UMA's SetSlot() and SetOverlayColor() APIs.
 
-Developed a searchable customization system with modifier support (e.g., “tall red boots”) and feedback-driven refinement.
+Developed a searchable customization system with modifier support and feedback-driven refinement.
 
 Integrated early AI customization logic and planned for database-driven asset matching.
 
